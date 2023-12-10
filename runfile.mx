@@ -1,0 +1,9 @@
+MAINFILE /main/main.py
+ALT /main/asset.py
+
+DIR /main
+EMERG /main/
+COMPONENT /main/components
+ASSET /main/assets
+RUNFILE /self
+EXECUTIBLE /mshub.exe
